@@ -5,6 +5,10 @@
 
 ![01](https://user-images.githubusercontent.com/18373233/135024448-8d724463-5963-46a4-bbe3-1520e36c4cb0.png)
 
+FreeVoiceReader2.0增加了若干自动化和人性化功能，如阅读状态记忆、语音播放进度控制等。
+
+![04](https://user-images.githubusercontent.com/18373233/135081711-59ccb691-03d4-44ce-846d-f6606e8fa59f.png)
+
 你完全可以为自己收藏的电子书手工创建数据，以便软件载入进行语音朗读，软件会标识正在朗读的内容。
 
 ![02](https://user-images.githubusercontent.com/18373233/135024454-ad7ed0d6-e49d-4328-94fb-a86eaacf8cd6.png)
