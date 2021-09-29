@@ -23,4 +23,4 @@ FreeVoiceReader3.0修正和优化了多处细节，增加了多个必要交互�
 
 ![03](https://user-images.githubusercontent.com/18373233/135024712-c953e710-21f5-49da-a492-f0f1e30b04c4.png)
 
-注意，本软件只能在windows平台下使用（推荐使用windows10）。
+注意，本软件UI采用原生MFC实现，只能在windows平台下使用（推荐使用windows10）。
