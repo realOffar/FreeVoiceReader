@@ -9,7 +9,7 @@ FreeVoiceReader2.0增加了若干自动化和人性化功能，如阅读状态�
 
 ![04](https://user-images.githubusercontent.com/18373233/135081711-59ccb691-03d4-44ce-846d-f6606e8fa59f.png)
 
-FreeVoiceReader3.0修正和优化了多处细节，增加了多个必要交互，极大提升了界面品质和听读体验，同时附加了多部热门网络小说。
+FreeVoiceReader3.0修正和优化了多处细节，增加了多个必要交互，极大提升了界面品质和听读体验，同时附加了热门网络小说《死神的哈士奇》。
 
 ![06](https://user-images.githubusercontent.com/18373233/135340157-5fc9c93a-e421-4442-b857-03ece54de7d3.png)
 
