@@ -11,7 +11,7 @@ FreeVoiceReader2.0增加了若干自动化和人性化功能，如阅读状态�
 
 FreeVoiceReader3.0修正和优化了多处细节，增加了多个必要交互，极大提升了界面品质和听读体验，同时附加了多部热门网络小说。
 
-![05](https://user-images.githubusercontent.com/18373233/135327993-61a83103-df65-4eef-b67d-b8ebbf7d3b49.png)
+![06](https://user-images.githubusercontent.com/18373233/135340157-5fc9c93a-e421-4442-b857-03ece54de7d3.png)
 
 你完全可以为自己收藏的电子书手工创建数据，以便软件载入进行语音朗读，软件会标识正在朗读的内容。
 
